@@ -55,12 +55,3 @@ news_classification_project/
 
 ## Final Result Summary
 The current verified run achieves an accuracy of 0.9843 on the held-out test set. The confusion matrix and accuracy are saved in results/metrics.txt.
-
-## GitHub Repository Link
-Add your repository link here before submission.
-
-## Video Explanation Link
-Add your 2 to 3 minute explanation video link here before submission.
-
-## Submission Deadline
-Submission deadline is 48 hours.
